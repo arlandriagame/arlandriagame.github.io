@@ -1,4 +1,4 @@
 # arlandriagame.com
 Website
 
-[Arlandria](/logo.png)
+[Arlandria](/logo-1030x223.png.png)
