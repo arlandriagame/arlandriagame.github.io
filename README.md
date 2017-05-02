@@ -1,2 +1,4 @@
-# arlandriagame.github.io
+# arlandriagame.com
 Website
+
+[Arlandria](/logo.png)
